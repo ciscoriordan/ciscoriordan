@@ -1,18 +1,26 @@
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### [Iliad Parallel Reader](https://iliadaligned.com)
 
-<a href="https://iliadaligned.com"><img src="https://iliadaligned.com/og-image.jpg" width="640" alt="Iliad Parallel Reader"></a>
+<a href="https://iliadaligned.com"><img src="https://iliadaligned.com/og-image.jpg" width="360" alt="Iliad Parallel Reader"></a>
 
 iOS app presenting Homer's *Iliad* in parallel columns: Ancient Greek, Modern Greek (Polylas-Riordan), and English (Murray-Riordan). Tap any word for morphological analysis and dictionary definitions from Cunliffe, LSJ, and Wiktionary. [iliadaligned.com](https://iliadaligned.com)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### [Tonos](https://tonospolytonic.com)
 
-<a href="https://tonospolytonic.com"><img src="https://tonospolytonic.com/assets/og-image.png" width="640" alt="Tonos polytonic Greek keyboard"></a>
+<a href="https://tonospolytonic.com"><img src="https://tonospolytonic.com/assets/og-image.png" width="360" alt="Tonos polytonic Greek keyboard"></a>
 
 A polytonic Greek keyboard for iOS 18+. Dedicated diacritic row, autocorrect and typeahead, support for Classical, Koine, Byzantine, and Katharevousa orthographies. [tonospolytonic.com](https://tonospolytonic.com)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [lemma](https://github.com/ciscoriordan/lemma)
 
@@ -20,11 +28,12 @@ A polytonic Greek keyboard for iOS 18+. Dedicated diacritic row, autocorrect and
 [![Release](https://img.shields.io/github/v/release/ciscoriordan/lemma?display_name=tag)](https://github.com/ciscoriordan/lemma/releases)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/lemma)](https://github.com/ciscoriordan/lemma/commits)
 
-<a href="https://github.com/ciscoriordan/lemma"><img src="https://raw.githubusercontent.com/ciscoriordan/lemma/main/images/lemma_banner.png" width="640" alt="Lemma dictionary for Kindle"></a>
+<a href="https://github.com/ciscoriordan/lemma"><img src="https://raw.githubusercontent.com/ciscoriordan/lemma/main/images/lemma_banner.png" width="360" alt="Lemma dictionary for Kindle"></a>
 
 Free Modern Greek-English dictionary for Kindle e-readers. 31K headwords, 568K inflected-form lookups, built from Wiktionary data. Generator written in Rust.
 
----
+</td>
+<td width="50%" valign="top">
 
 ### [dilemma](https://github.com/ciscoriordan/dilemma)
 
@@ -32,11 +41,14 @@ Free Modern Greek-English dictionary for Kindle e-readers. 31K headwords, 568K i
 [![Release](https://img.shields.io/github/v/release/ciscoriordan/dilemma?display_name=tag)](https://github.com/ciscoriordan/dilemma/releases)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/dilemma)](https://github.com/ciscoriordan/dilemma/commits)
 
-<a href="https://github.com/ciscoriordan/dilemma"><img src="https://raw.githubusercontent.com/ciscoriordan/dilemma/main/dilemma.png" width="640" alt="Dilemma Greek lemmatizer"></a>
+<a href="https://github.com/ciscoriordan/dilemma"><img src="https://raw.githubusercontent.com/ciscoriordan/dilemma/main/dilemma.png" width="360" alt="Dilemma Greek lemmatizer"></a>
 
 Holistic Greek lemmatizer spanning Ancient (Classical, Homeric, Hellenistic), Medieval/Byzantine (vernacular and literary), and Modern Greek (Demotic and Katharevousa). Combines a 12.5M-form lookup table, dialect normalization, rule-based morphology, and a small character-level transformer.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [opla](https://github.com/ciscoriordan/opla)
 
@@ -44,22 +56,26 @@ Holistic Greek lemmatizer spanning Ancient (Classical, Homeric, Hellenistic), Me
 [![Release](https://img.shields.io/github/v/release/ciscoriordan/opla?display_name=tag)](https://github.com/ciscoriordan/opla/releases)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/opla)](https://github.com/ciscoriordan/opla/commits)
 
-<a href="https://github.com/ciscoriordan/opla"><img src="https://raw.githubusercontent.com/ciscoriordan/opla/main/opla.jpg" width="640" alt="Opla Greek POS tagger and dependency parser"></a>
+<a href="https://github.com/ciscoriordan/opla"><img src="https://raw.githubusercontent.com/ciscoriordan/opla/master/opla.jpg" width="360" alt="Opla Greek POS tagger and dependency parser"></a>
 
 GPU-optimized Greek POS tagger and dependency parser. 215x faster than *gr-nlp-toolkit* on real-world text, with identical POS output. Supports Modern, Ancient, and Medieval Greek.
 
----
+</td>
+<td width="50%" valign="top">
 
 ### [dragoman](https://huggingface.co/ciscoriordan/dragoman)
 
 [![HF likes](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fciscoriordan%2Fdragoman&query=%24.likes&label=%F0%9F%A4%97%20likes)](https://huggingface.co/ciscoriordan/dragoman)
 [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fciscoriordan%2Fdragoman&query=%24.downloads&label=%F0%9F%A4%97%20downloads)](https://huggingface.co/ciscoriordan/dragoman)
 
-<a href="https://huggingface.co/ciscoriordan/dragoman"><img src="https://cdn-thumbnails.huggingface.co/social-thumbnails/models/ciscoriordan/dragoman.png" width="640" alt="Dragoman Greek word alignment model"></a>
+<a href="https://huggingface.co/ciscoriordan/dragoman"><img src="https://cdn-thumbnails.huggingface.co/social-thumbnails/models/ciscoriordan/dragoman.png" width="360" alt="Dragoman Greek word alignment model"></a>
 
 Multilingual word-alignment model for Ancient Greek, Modern Greek, and English. Fine-tuned from [UGARIT/grc-alignment](https://huggingface.co/UGARIT/grc-alignment) on Iliad parallel text with contrastive alignment training. Powers the word-tap alignment in the Iliad Parallel Reader.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [kindling](https://github.com/ciscoriordan/kindling)
 
@@ -67,11 +83,12 @@ Multilingual word-alignment model for Ancient Greek, Modern Greek, and English. 
 [![Release](https://img.shields.io/github/v/release/ciscoriordan/kindling?display_name=tag)](https://github.com/ciscoriordan/kindling/releases)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/kindling)](https://github.com/ciscoriordan/kindling/commits)
 
-<a href="https://github.com/ciscoriordan/kindling"><img src="https://raw.githubusercontent.com/ciscoriordan/kindling/main/images/kindling_social.jpg" width="640" alt="Kindling Kindle toolkit"></a>
+<a href="https://github.com/ciscoriordan/kindling"><img src="https://raw.githubusercontent.com/ciscoriordan/kindling/main/images/kindling_social.jpg" width="360" alt="Kindling Kindle toolkit"></a>
 
 The missing Kindle toolkit. Dictionaries, books, and comics, built as a single static Rust binary with no dependencies. Reverse-engineered MOBI generator that replaces Amazon's deprecated *kindlegen* and is roughly 7,000x faster for large dictionaries.
 
----
+</td>
+<td width="50%" valign="top">
 
 ### [storescreens-cli](https://github.com/ciscoriordan/storescreens-cli)
 
@@ -79,17 +96,24 @@ The missing Kindle toolkit. Dictionaries, books, and comics, built as a single s
 [![Release](https://img.shields.io/github/v/release/ciscoriordan/storescreens-cli?display_name=tag)](https://github.com/ciscoriordan/storescreens-cli/releases)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/storescreens-cli)](https://github.com/ciscoriordan/storescreens-cli/commits)
 
-<a href="https://github.com/ciscoriordan/storescreens-cli"><img src="https://raw.githubusercontent.com/ciscoriordan/storescreens-cli/main/assets/banner.png" width="640" alt="StoreScreens"></a>
+<a href="https://github.com/ciscoriordan/storescreens-cli"><img src="https://raw.githubusercontent.com/ciscoriordan/storescreens-cli/main/assets/banner.png" width="360" alt="StoreScreens"></a>
 
 Capture App Store screenshots across every required device size in one command. Runs your UI tests on multiple simulators in parallel, organizes output by device and locale, and auto-detects which App Store size each simulator maps to. iPhone, iPad, Apple Watch, and Mac.
 
----
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### [svg-flags](https://github.com/ciscoriordan/svg-flags)
 
 [![Stars](https://img.shields.io/github/stars/ciscoriordan/svg-flags?style=flat&logo=github)](https://github.com/ciscoriordan/svg-flags/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/svg-flags)](https://github.com/ciscoriordan/svg-flags/commits)
 
-<a href="https://github.com/ciscoriordan/svg-flags"><img src="https://raw.githubusercontent.com/ciscoriordan/svg-flags/main/social.png" width="640" alt="svg-flags"></a>
+<a href="https://github.com/ciscoriordan/svg-flags"><img src="https://raw.githubusercontent.com/ciscoriordan/svg-flags/main/social.png" width="740" alt="svg-flags"></a>
 
 Clean, Xcode-compatible SVG flags with official colors in multiple shapes: circle, square, full-size, and simplified full-size. Fixes three issues with *circle-flags*: no Xcode support, circles only, and a reduced 11-color palette. [Browse the gallery](https://ciscoriordan.github.io/svg-flags)
+
+</td>
+</tr>
+</table>
