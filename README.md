@@ -1,3 +1,30 @@
+## Sites
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Iliad Parallel Reader](https://iliadaligned.com)
+
+<a href="https://iliadaligned.com"><img src="https://iliadaligned.com/og-image.jpg" width="360" alt="Iliad Parallel Reader"></a>
+
+iOS app presenting Homer's *Iliad* in parallel columns: Ancient Greek, Modern Greek (Polylas-Riordan), and English (Murray-Riordan). Tap any word for morphological analysis and dictionary definitions from Cunliffe, LSJ, and Wiktionary. [iliadaligned.com](https://iliadaligned.com)
+
+</td>
+<td width="50%" valign="top">
+
+### [Tonos](https://tonospolytonic.com)
+
+<a href="https://tonospolytonic.com"><img src="https://tonospolytonic.com/assets/og-image.png" width="360" alt="Tonos polytonic Greek keyboard"></a>
+
+A polytonic Greek keyboard for iOS 18+. Dedicated diacritic row, plus autocorrect and typeahead powered by [dilemma](https://github.com/ciscoriordan/dilemma). Supports Classical, Koine, Byzantine, and Katharevousa orthographies. [tonospolytonic.com](https://tonospolytonic.com)
+
+</td>
+</tr>
+</table>
+
+## Repositories
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -11,26 +38,6 @@
 <a href="https://github.com/ciscoriordan/kindling"><img src="https://raw.githubusercontent.com/ciscoriordan/kindling/main/images/kindling_social.jpg" width="360" alt="Kindling Kindle toolkit"></a>
 
 The missing Kindle toolkit. Dictionaries, books, and comics, built as a single static Rust binary with no dependencies. Reverse-engineered MOBI generator that replaces Amazon's deprecated *kindlegen* and is roughly 7,000x faster for large dictionaries.
-
-</td>
-<td width="50%" valign="top">
-
-### [Iliad Parallel Reader](https://iliadaligned.com)
-
-<a href="https://iliadaligned.com"><img src="https://iliadaligned.com/og-image.jpg" width="360" alt="Iliad Parallel Reader"></a>
-
-iOS app presenting Homer's *Iliad* in parallel columns: Ancient Greek, Modern Greek (Polylas-Riordan), and English (Murray-Riordan). Tap any word for morphological analysis and dictionary definitions from Cunliffe, LSJ, and Wiktionary. [iliadaligned.com](https://iliadaligned.com)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Tonos](https://tonospolytonic.com)
-
-<a href="https://tonospolytonic.com"><img src="https://tonospolytonic.com/assets/og-image.png" width="360" alt="Tonos polytonic Greek keyboard"></a>
-
-A polytonic Greek keyboard for iOS 18+. Dedicated diacritic row, autocorrect and typeahead, support for Classical, Koine, Byzantine, and Katharevousa orthographies. [tonospolytonic.com](https://tonospolytonic.com)
 
 </td>
 <td width="50%" valign="top">
