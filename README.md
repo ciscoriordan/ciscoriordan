@@ -80,7 +80,7 @@ GPU-optimized Greek POS tagger and dependency parser. 215x faster than *gr-nlp-t
 
 <div align="center"><a href="https://huggingface.co/ciscoriordan/dragoman"><img src="https://cdn-thumbnails.huggingface.co/social-thumbnails/models/ciscoriordan/dragoman.png" width="360" alt="Dragoman Greek word alignment model"></a></div>
 
-Multilingual word-alignment model for Ancient Greek, Modern Greek, and English. Fine-tuned from [UGARIT/grc-alignment](https://huggingface.co/UGARIT/grc-alignment) on Iliad parallel text with contrastive alignment training. Powers the word-tap alignment in the Iliad Parallel Reader.
+Diachronic word-alignment model for Ancient Greek, Modern Greek, and English. Fine-tuned from [UGARIT/grc-alignment](https://huggingface.co/UGARIT/grc-alignment) on Iliad parallel text with contrastive alignment training. Powers the word-tap alignment in [Iliad Aligned](https://iliadaligned.com).
 
 </td>
 </tr>
