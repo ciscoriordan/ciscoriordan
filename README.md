@@ -1,28 +1,3 @@
-## Sites
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Iliad Parallel Reader](https://iliadaligned.com)
-
-<a href="https://iliadaligned.com"><img src="https://iliadaligned.com/og-image.jpg" width="360" alt="Iliad Parallel Reader"></a>
-
-iOS app presenting Homer's *Iliad* in parallel columns: Ancient Greek, Modern Greek (Polylas-Riordan), and English (Murray-Riordan). Tap any word for morphological analysis and dictionary definitions from Cunliffe, LSJ, and Wiktionary. [iliadaligned.com](https://iliadaligned.com)
-
-</td>
-<td width="50%" valign="top">
-
-### [Tonos](https://tonospolytonic.com)
-
-<a href="https://tonospolytonic.com"><img src="https://tonospolytonic.com/assets/og-image.png" width="360" alt="Tonos polytonic Greek keyboard"></a>
-
-A polytonic Greek keyboard for iOS 18+. Dedicated diacritic row, plus autocorrect and typeahead powered by [dilemma](https://github.com/ciscoriordan/dilemma). Supports Classical, Koine, Byzantine, and Katharevousa orthographies. [tonospolytonic.com](https://tonospolytonic.com)
-
-</td>
-</tr>
-</table>
-
 ## Repositories
 
 <table>
@@ -120,6 +95,51 @@ Multilingual word-alignment model for Ancient Greek, Modern Greek, and English. 
 <a href="https://github.com/ciscoriordan/svg-flags"><img src="https://raw.githubusercontent.com/ciscoriordan/svg-flags/main/social.png" width="740" alt="svg-flags"></a>
 
 Clean, Xcode-compatible SVG flags with official colors in multiple shapes: circle, square, full-size, and simplified full-size. Fixes three issues with *circle-flags*: no Xcode support, circles only, and a reduced 11-color palette. [Browse the gallery](https://ciscoriordan.github.io/svg-flags)
+
+</td>
+</tr>
+</table>
+
+## Sites & apps
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Iliad Aligned](https://iliadaligned.com)
+
+<a href="https://iliadaligned.com"><img src="https://iliadaligned.com/og-image.jpg" width="360" alt="Iliad Aligned"></a>
+
+iOS app presenting Homer's *Iliad* in parallel columns: Ancient Greek, Modern Greek (Polylas-Riordan), and English (Murray-Riordan). Tap any word for morphological analysis and dictionary definitions from Cunliffe, LSJ, and Wiktionary. [iliadaligned.com](https://iliadaligned.com)
+
+</td>
+<td width="50%" valign="top">
+
+### [Tonos](https://tonospolytonic.com)
+
+<a href="https://tonospolytonic.com"><img src="https://tonospolytonic.com/assets/og-image.png" width="360" alt="Tonos polytonic Greek keyboard"></a>
+
+A polytonic Greek keyboard for iOS 18+. Dedicated diacritic row, plus autocorrect and typeahead powered by [dilemma](https://github.com/ciscoriordan/dilemma). Supports Classical, Koine, Byzantine, and Katharevousa orthographies. [tonospolytonic.com](https://tonospolytonic.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [CCWCalc](https://ccwcalc.com)
+
+<a href="https://ccwcalc.com"><img src="https://ccwcalc.com/assets/og-image-b2c25e53c8e056ae9a69fd11b9828758730704933881b2cffcad4a5636da4262.jpg" width="360" alt="CCWCalc concealed carry laws"></a>
+
+iOS app and web reference for concealed-carry laws and reciprocity across 50 states, DC, PR, GU, USVI, AS, CNMI, 365 Indian reservations, 169 military installations, and 176 on-base hotels. [ccwcalc.com](https://ccwcalc.com)
+
+</td>
+<td width="50%" valign="top">
+
+### [Flex](https://flexlanguage.app)
+
+<a href="https://flexlanguage.app"><img src="https://flexlanguage.app/images/01_DeckSelection.webp" width="200" alt="Flex Spanish conjugation app"></a>
+
+Spanish verb conjugation app with full voseo coverage, FSRS spaced repetition, and GPU-accelerated speech recognition. 5,064 verbs, every tense and mood, free. [flexlanguage.app](https://flexlanguage.app)
 
 </td>
 </tr>
