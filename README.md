@@ -1,4 +1,4 @@
-## Repositories
+## Public Repos
 
 <table>
 <tr>
