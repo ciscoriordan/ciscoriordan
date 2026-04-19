@@ -38,7 +38,7 @@ Free Modern Greek-English dictionary for Kindle e-readers. 31K headwords, 568K i
 [![Release](https://img.shields.io/github/v/release/ciscoriordan/dilemma?display_name=tag)](https://github.com/ciscoriordan/dilemma/releases)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/dilemma)](https://github.com/ciscoriordan/dilemma/commits)
 
-<div align="center"><a href="https://github.com/ciscoriordan/dilemma"><img src="https://raw.githubusercontent.com/ciscoriordan/dilemma/main/dilemma.png" width="360" alt="Dilemma Greek lemmatizer"></a></div>
+<div align="center"><a href="https://github.com/ciscoriordan/dilemma"><img src="https://raw.githubusercontent.com/ciscoriordan/dilemma/main/social.jpg" width="360" alt="Dilemma Greek lemmatizer"></a></div>
 
 Holistic Greek lemmatizer spanning Ancient (Classical, Homeric, Hellenistic), Medieval/Byzantine (vernacular and literary), and Modern Greek (Demotic and Katharevousa). Combines a 12.5M-form lookup table, dialect normalization, rule-based morphology, and a small character-level transformer.
 
