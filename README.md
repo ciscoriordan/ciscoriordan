@@ -10,7 +10,7 @@
 [![Release](https://img.shields.io/github/v/release/ciscoriordan/kindling?display_name=tag)](https://github.com/ciscoriordan/kindling/releases)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/kindling)](https://github.com/ciscoriordan/kindling/commits)
 
-<a href="https://github.com/ciscoriordan/kindling"><img src="https://raw.githubusercontent.com/ciscoriordan/kindling/main/images/kindling_social.jpg" width="360" alt="Kindling Kindle toolkit"></a>
+<div align="center"><a href="https://github.com/ciscoriordan/kindling"><img src="https://raw.githubusercontent.com/ciscoriordan/kindling/main/images/kindling_social.jpg" width="360" alt="Kindling Kindle toolkit"></a></div>
 
 The missing Kindle toolkit. Dictionaries, books, and comics, built as a single static Rust binary with no dependencies. Reverse-engineered MOBI generator that replaces Amazon's deprecated *kindlegen* and is roughly 7,000x faster for large dictionaries.
 
@@ -23,7 +23,7 @@ The missing Kindle toolkit. Dictionaries, books, and comics, built as a single s
 [![Release](https://img.shields.io/github/v/release/ciscoriordan/lemma?display_name=tag)](https://github.com/ciscoriordan/lemma/releases)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/lemma)](https://github.com/ciscoriordan/lemma/commits)
 
-<a href="https://github.com/ciscoriordan/lemma"><img src="https://raw.githubusercontent.com/ciscoriordan/lemma/main/images/lemma_banner.png" width="360" alt="Lemma dictionary for Kindle"></a>
+<div align="center"><a href="https://github.com/ciscoriordan/lemma"><img src="https://raw.githubusercontent.com/ciscoriordan/lemma/main/images/lemma_banner.png" width="360" alt="Lemma dictionary for Kindle"></a></div>
 
 Free Modern Greek-English dictionary for Kindle e-readers. 31K headwords, 568K inflected-form lookups, built from Wiktionary data. Generator written in Rust.
 
@@ -38,7 +38,7 @@ Free Modern Greek-English dictionary for Kindle e-readers. 31K headwords, 568K i
 [![Release](https://img.shields.io/github/v/release/ciscoriordan/dilemma?display_name=tag)](https://github.com/ciscoriordan/dilemma/releases)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/dilemma)](https://github.com/ciscoriordan/dilemma/commits)
 
-<a href="https://github.com/ciscoriordan/dilemma"><img src="https://raw.githubusercontent.com/ciscoriordan/dilemma/main/dilemma.png" width="360" alt="Dilemma Greek lemmatizer"></a>
+<div align="center"><a href="https://github.com/ciscoriordan/dilemma"><img src="https://raw.githubusercontent.com/ciscoriordan/dilemma/main/dilemma.png" width="360" alt="Dilemma Greek lemmatizer"></a></div>
 
 Holistic Greek lemmatizer spanning Ancient (Classical, Homeric, Hellenistic), Medieval/Byzantine (vernacular and literary), and Modern Greek (Demotic and Katharevousa). Combines a 12.5M-form lookup table, dialect normalization, rule-based morphology, and a small character-level transformer.
 
@@ -51,7 +51,7 @@ Holistic Greek lemmatizer spanning Ancient (Classical, Homeric, Hellenistic), Me
 [![Release](https://img.shields.io/github/v/release/ciscoriordan/storescreens-cli?display_name=tag)](https://github.com/ciscoriordan/storescreens-cli/releases)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/storescreens-cli)](https://github.com/ciscoriordan/storescreens-cli/commits)
 
-<a href="https://github.com/ciscoriordan/storescreens-cli"><img src="https://raw.githubusercontent.com/ciscoriordan/storescreens-cli/main/assets/banner.png" width="360" alt="StoreScreens"></a>
+<div align="center"><a href="https://github.com/ciscoriordan/storescreens-cli"><img src="https://raw.githubusercontent.com/ciscoriordan/storescreens-cli/main/assets/banner.png" width="360" alt="StoreScreens"></a></div>
 
 Capture App Store screenshots across every required device size in one command. Runs your UI tests on multiple simulators in parallel, organizes output by device and locale, and auto-detects which App Store size each simulator maps to. iPhone, iPad, Apple Watch, and Mac.
 
@@ -66,7 +66,7 @@ Capture App Store screenshots across every required device size in one command. 
 [![Release](https://img.shields.io/github/v/release/ciscoriordan/opla?display_name=tag)](https://github.com/ciscoriordan/opla/releases)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/opla)](https://github.com/ciscoriordan/opla/commits)
 
-<a href="https://github.com/ciscoriordan/opla"><img src="https://raw.githubusercontent.com/ciscoriordan/opla/master/opla.jpg" width="360" alt="Opla Greek POS tagger and dependency parser"></a>
+<div align="center"><a href="https://github.com/ciscoriordan/opla"><img src="https://raw.githubusercontent.com/ciscoriordan/opla/master/opla.jpg" width="360" alt="Opla Greek POS tagger and dependency parser"></a></div>
 
 GPU-optimized Greek POS tagger and dependency parser. 215x faster than *gr-nlp-toolkit* on real-world text, with identical POS output. Supports Modern, Ancient, and Medieval Greek.
 
@@ -78,7 +78,7 @@ GPU-optimized Greek POS tagger and dependency parser. 215x faster than *gr-nlp-t
 [![HF likes](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fciscoriordan%2Fdragoman&query=%24.likes&label=%F0%9F%A4%97%20likes)](https://huggingface.co/ciscoriordan/dragoman)
 [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fciscoriordan%2Fdragoman&query=%24.downloads&label=%F0%9F%A4%97%20downloads)](https://huggingface.co/ciscoriordan/dragoman)
 
-<a href="https://huggingface.co/ciscoriordan/dragoman"><img src="https://cdn-thumbnails.huggingface.co/social-thumbnails/models/ciscoriordan/dragoman.png" width="360" alt="Dragoman Greek word alignment model"></a>
+<div align="center"><a href="https://huggingface.co/ciscoriordan/dragoman"><img src="https://cdn-thumbnails.huggingface.co/social-thumbnails/models/ciscoriordan/dragoman.png" width="360" alt="Dragoman Greek word alignment model"></a></div>
 
 Multilingual word-alignment model for Ancient Greek, Modern Greek, and English. Fine-tuned from [UGARIT/grc-alignment](https://huggingface.co/UGARIT/grc-alignment) on Iliad parallel text with contrastive alignment training. Powers the word-tap alignment in the Iliad Parallel Reader.
 
@@ -92,7 +92,7 @@ Multilingual word-alignment model for Ancient Greek, Modern Greek, and English. 
 [![Stars](https://img.shields.io/github/stars/ciscoriordan/svg-flags?style=flat&logo=github)](https://github.com/ciscoriordan/svg-flags/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/svg-flags)](https://github.com/ciscoriordan/svg-flags/commits)
 
-<a href="https://github.com/ciscoriordan/svg-flags"><img src="https://raw.githubusercontent.com/ciscoriordan/svg-flags/main/social.png" width="740" alt="svg-flags"></a>
+<div align="center"><a href="https://github.com/ciscoriordan/svg-flags"><img src="https://raw.githubusercontent.com/ciscoriordan/svg-flags/main/social.png" width="740" alt="svg-flags"></a></div>
 
 Clean, Xcode-compatible SVG flags with official colors in multiple shapes: circle, square, full-size, and simplified full-size. Fixes three issues with *circle-flags*: no Xcode support, circles only, and a reduced 11-color palette. [Browse the gallery](https://ciscoriordan.github.io/svg-flags)
 
@@ -108,7 +108,7 @@ Clean, Xcode-compatible SVG flags with official colors in multiple shapes: circl
 
 ### [Iliad Aligned](https://iliadaligned.com)
 
-<a href="https://iliadaligned.com"><img src="https://iliadaligned.com/og-image.jpg" width="360" alt="Iliad Aligned"></a>
+<div align="center"><a href="https://iliadaligned.com"><img src="https://iliadaligned.com/og-image.jpg" width="360" alt="Iliad Aligned"></a></div>
 
 iOS app presenting Homer's *Iliad* in parallel columns: Ancient Greek, Modern Greek (Polylas-Riordan), and English (Murray-Riordan). Tap any word for morphological analysis and dictionary definitions from Cunliffe, LSJ, and Wiktionary. [iliadaligned.com](https://iliadaligned.com)
 
@@ -117,7 +117,7 @@ iOS app presenting Homer's *Iliad* in parallel columns: Ancient Greek, Modern Gr
 
 ### [Tonos](https://tonospolytonic.com)
 
-<a href="https://tonospolytonic.com"><img src="https://tonospolytonic.com/assets/og-image.png" width="360" alt="Tonos polytonic Greek keyboard"></a>
+<div align="center"><a href="https://tonospolytonic.com"><img src="https://tonospolytonic.com/assets/og-image.png" width="360" alt="Tonos polytonic Greek keyboard"></a></div>
 
 A polytonic Greek keyboard for iOS 18+. Dedicated diacritic row, plus autocorrect and typeahead powered by [dilemma](https://github.com/ciscoriordan/dilemma). Supports Classical, Koine, Byzantine, and Katharevousa orthographies. [tonospolytonic.com](https://tonospolytonic.com)
 
@@ -128,7 +128,7 @@ A polytonic Greek keyboard for iOS 18+. Dedicated diacritic row, plus autocorrec
 
 ### [CCWCalc](https://ccwcalc.com)
 
-<a href="https://ccwcalc.com"><img src="https://ccwcalc.com/assets/og-image-b2c25e53c8e056ae9a69fd11b9828758730704933881b2cffcad4a5636da4262.jpg" width="360" alt="CCWCalc concealed carry laws"></a>
+<div align="center"><a href="https://ccwcalc.com"><img src="https://ccwcalc.com/assets/og-image-b2c25e53c8e056ae9a69fd11b9828758730704933881b2cffcad4a5636da4262.jpg" width="360" alt="CCWCalc concealed carry laws"></a></div>
 
 iOS app and web reference for concealed-carry laws and reciprocity across 50 states, DC, PR, GU, USVI, AS, CNMI, 365 Indian reservations, 169 military installations, and 176 on-base hotels. [ccwcalc.com](https://ccwcalc.com)
 
@@ -137,7 +137,7 @@ iOS app and web reference for concealed-carry laws and reciprocity across 50 sta
 
 ### [Flex](https://flexlanguage.app)
 
-<a href="https://flexlanguage.app"><img src="https://flexlanguage.app/images/01_DeckSelection.webp" width="200" alt="Flex Spanish conjugation app"></a>
+<div align="center"><a href="https://flexlanguage.app"><img src="https://flexlanguage.app/images/04_StudyView.webp" width="200" alt="Flex Spanish conjugation app"></a></div>
 
 Spanish verb conjugation app with full voseo coverage, FSRS spaced repetition, and GPU-accelerated speech recognition. 5,064 verbs, every tense and mood, free. [flexlanguage.app](https://flexlanguage.app)
 
