@@ -40,7 +40,7 @@ Free Modern Greek-English dictionary for Kindle e-readers. 31K headwords, 568K i
 
 <div align="center"><a href="https://github.com/ciscoriordan/dilemma"><img src="https://raw.githubusercontent.com/ciscoriordan/dilemma/main/social.jpg" width="360" alt="Dilemma Greek lemmatizer"></a></div>
 
-Holistic Greek lemmatizer spanning Ancient (Classical, Homeric, Hellenistic), Medieval/Byzantine (vernacular and literary), and Modern Greek (Demotic and Katharevousa). Combines a 12.5M-form lookup table, dialect normalization, rule-based morphology, and a small character-level transformer.
+Diachronic Greek lemmatizer spanning Ancient (Classical, Homeric, Hellenistic), Medieval/Byzantine (vernacular and literary), and Modern Greek (Demotic and Katharevousa). Combines a 12.5M-form lookup table, dialect normalization, rule-based morphology, and a small character-level transformer.
 
 </td>
 <td width="50%" valign="top">
@@ -68,7 +68,7 @@ Capture App Store screenshots across every required device size in one command. 
 
 <div align="center"><a href="https://github.com/ciscoriordan/opla"><img src="https://raw.githubusercontent.com/ciscoriordan/opla/master/opla.jpg" width="360" alt="Opla Greek POS tagger and dependency parser"></a></div>
 
-GPU-optimized Greek POS tagger and dependency parser. 215x faster than *gr-nlp-toolkit* on real-world text, with identical POS output. Supports Modern, Ancient, and Medieval Greek.
+GPU-optimized diachronic Greek POS tagger and dependency parser. 215x faster than *gr-nlp-toolkit* on real-world text, with identical POS output. Supports Modern, Ancient, and Medieval Greek.
 
 </td>
 <td width="50%" valign="top">
