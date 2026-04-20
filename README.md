@@ -78,7 +78,7 @@ GPU-optimized diachronic Greek POS tagger and dependency parser. 215x faster tha
 [![HF likes](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fciscoriordan%2Fdragoman&query=%24.likes&label=%F0%9F%A4%97%20likes)](https://huggingface.co/ciscoriordan/dragoman)
 [![HF downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fciscoriordan%2Fdragoman&query=%24.downloads&label=%F0%9F%A4%97%20downloads)](https://huggingface.co/ciscoriordan/dragoman)
 
-<div align="center"><a href="https://huggingface.co/ciscoriordan/dragoman"><img src="https://cdn-thumbnails.huggingface.co/social-thumbnails/models/ciscoriordan/dragoman.png" width="360" alt="Dragoman Greek word alignment model"></a></div>
+<div align="center"><a href="https://huggingface.co/ciscoriordan/dragoman"><img src="https://huggingface.co/ciscoriordan/dragoman/resolve/main/thumbnail.png" width="360" alt="Dragoman Greek word alignment model"></a></div>
 
 Diachronic word-alignment model for Ancient Greek, Modern Greek, and English. Fine-tuned from [UGARIT/grc-alignment](https://huggingface.co/UGARIT/grc-alignment) on Iliad parallel text with contrastive alignment training. Powers the word-tap alignment in [Iliad Aligned](https://iliadaligned.com).
 
