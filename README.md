@@ -12,7 +12,7 @@
 
 <div align="center"><a href="https://github.com/ciscoriordan/kindling"><img src="https://raw.githubusercontent.com/ciscoriordan/kindling/main/images/kindling_social.jpg" width="360" alt="Kindling Kindle toolkit"></a></div>
 
-The missing Kindle toolkit. Dictionaries, books, and comics, built as a single static Rust binary with no dependencies. Reverse-engineered MOBI generator that replaces Amazon's deprecated *kindlegen* and is roughly 7,000x faster for large dictionaries.
+The missing Kindle toolkit. Dictionaries, books, and comics, built as a single static Rust binary with no dependencies. Reverse-engineered MOBI generator that replaces Amazon's deprecated *kindlegen*: ~7,000x faster on a heavily-inflected Modern Greek dictionary, and ~40x faster on a 2M-entry French dictionary.
 
 </td>
 <td width="50%" valign="top">
@@ -66,7 +66,7 @@ Capture App Store screenshots across every required device size in one command. 
 [![Release](https://img.shields.io/github/v/release/ciscoriordan/opla?display_name=tag)](https://github.com/ciscoriordan/opla/releases)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/opla)](https://github.com/ciscoriordan/opla/commits)
 
-<div align="center"><a href="https://github.com/ciscoriordan/opla"><img src="https://raw.githubusercontent.com/ciscoriordan/opla/master/opla.jpg" width="360" alt="Opla Greek POS tagger and dependency parser"></a></div>
+<div align="center"><a href="https://github.com/ciscoriordan/opla"><img src="https://raw.githubusercontent.com/ciscoriordan/opla/master/opla-social.jpg" width="360" alt="Opla Greek POS tagger and dependency parser"></a></div>
 
 GPU-optimized diachronic Greek POS tagger and dependency parser. 215x faster than *gr-nlp-toolkit* on real-world text, with identical POS output. Supports Modern, Ancient, and Medieval Greek.
 
