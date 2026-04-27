@@ -60,13 +60,13 @@ Capture App Store screenshots across every required device size in one command. 
 <tr>
 <td width="50%" valign="top">
 
-### [opla](https://github.com/ciscoriordan/opla)
+### [morphy](https://github.com/ciscoriordan/morphy)
 
-[![Stars](https://img.shields.io/github/stars/ciscoriordan/opla?style=flat&logo=github)](https://github.com/ciscoriordan/opla/stargazers)
-[![Release](https://img.shields.io/github/v/release/ciscoriordan/opla?display_name=tag)](https://github.com/ciscoriordan/opla/releases)
-[![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/opla)](https://github.com/ciscoriordan/opla/commits)
+[![Stars](https://img.shields.io/github/stars/ciscoriordan/morphy?style=flat&logo=github)](https://github.com/ciscoriordan/morphy/stargazers)
+[![Release](https://img.shields.io/github/v/release/ciscoriordan/morphy?display_name=tag)](https://github.com/ciscoriordan/morphy/releases)
+[![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/morphy)](https://github.com/ciscoriordan/morphy/commits)
 
-<div align="center"><a href="https://github.com/ciscoriordan/opla"><img src="https://raw.githubusercontent.com/ciscoriordan/opla/master/opla-social.jpg" width="360" alt="Opla Greek POS tagger and dependency parser"></a></div>
+<div align="center"><a href="https://github.com/ciscoriordan/morphy"><img src="https://raw.githubusercontent.com/ciscoriordan/morphy/master/morphy-social.jpg" width="360" alt="Morphy Greek POS tagger and dependency parser"></a></div>
 
 GPU-optimized diachronic Greek POS tagger and dependency parser. 215x faster than *gr-nlp-toolkit* on real-world text, with identical POS output. Supports Modern, Ancient, and Medieval Greek.
 
