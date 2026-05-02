@@ -38,9 +38,9 @@ Free Modern Greek-English dictionary for Kindle e-readers. 31K headwords, 568K i
 [![Release](https://img.shields.io/github/v/release/ciscoriordan/dilemma?display_name=tag)](https://github.com/ciscoriordan/dilemma/releases)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/dilemma)](https://github.com/ciscoriordan/dilemma/commits)
 
-<div align="center"><a href="https://github.com/ciscoriordan/dilemma"><img src="https://raw.githubusercontent.com/ciscoriordan/dilemma/main/social.jpg" width="360" alt="Dilemma Greek lemmatizer"></a></div>
+<div align="center"><a href="https://github.com/ciscoriordan/dilemma"><img src="https://raw.githubusercontent.com/ciscoriordan/dilemma/main/social.jpg" width="360" alt="Dilemma Greek lemmatizer, POS tagger, dependency parser"></a></div>
 
-Diachronic Greek lemmatizer spanning Ancient (Classical, Homeric, Hellenistic), Medieval/Byzantine (vernacular and literary), and Modern Greek (Demotic and Katharevousa). Combines a 12.5M-form lookup table, dialect normalization, rule-based morphology, and a small character-level transformer.
+Diachronic Greek NLP package spanning Ancient (Classical, Homeric, Hellenistic), Medieval/Byzantine (vernacular and literary), and Modern Greek (Demotic and Katharevousa). Includes a 12.5M-form lookup table, dialect normalization, a character-level transformer, and a GPU-optimized POS tagger and dependency parser.
 
 </td>
 <td width="50%" valign="top">
@@ -58,20 +58,7 @@ Capture App Store screenshots across every required device size in one command. 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### [morphy](https://github.com/ciscoriordan/morphy)
-
-[![Stars](https://img.shields.io/github/stars/ciscoriordan/morphy?style=flat&logo=github)](https://github.com/ciscoriordan/morphy/stargazers)
-[![Release](https://img.shields.io/github/v/release/ciscoriordan/morphy?display_name=tag)](https://github.com/ciscoriordan/morphy/releases)
-[![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/morphy)](https://github.com/ciscoriordan/morphy/commits)
-
-<div align="center"><a href="https://github.com/ciscoriordan/morphy"><img src="https://raw.githubusercontent.com/ciscoriordan/morphy/master/morphy-social.jpg" width="360" alt="Morphy Greek POS tagger and dependency parser"></a></div>
-
-GPU-optimized diachronic Greek POS tagger and dependency parser. 215x faster than *gr-nlp-toolkit* on real-world text, with identical POS output. Supports Modern, Ancient, and Medieval Greek.
-
-</td>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### [dragoman](https://huggingface.co/ciscoriordan/dragoman)
 
