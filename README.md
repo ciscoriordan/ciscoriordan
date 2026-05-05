@@ -85,6 +85,20 @@ Clean, Xcode-compatible SVG flags with official colors in multiple shapes: circl
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [greek-majuscule-fonts](https://github.com/ciscoriordan/greek-majuscule-fonts)
+
+[![Stars](https://img.shields.io/github/stars/ciscoriordan/greek-majuscule-fonts?style=flat&logo=github)](https://github.com/ciscoriordan/greek-majuscule-fonts/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/greek-majuscule-fonts)](https://github.com/ciscoriordan/greek-majuscule-fonts/commits)
+
+<div align="center"><a href="https://github.com/ciscoriordan/greek-majuscule-fonts"><img src="https://raw.githubusercontent.com/ciscoriordan/greek-majuscule-fonts/main/assets/banner.png" width="740" alt="Greek Majuscule Fonts"></a></div>
+
+Five Greek majuscule fonts, each in the scribal hand of a different Oxyrhynchus papyrus (P.Oxy. 2162, 2174, 2181, 2256, 2506). Type uppercase Greek and the letters render in the actual hand of an ancient scribe. Ships in OTF, TTF, and WOFF2.
+
+</td>
+</tr>
 </table>
 
 ## Sites & apps
