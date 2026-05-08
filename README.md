@@ -145,7 +145,7 @@ Spanish verb conjugation app with full voseo coverage, FSRS spaced repetition, a
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### [Klisy](https://klisy.app)
 
