@@ -144,4 +144,15 @@ Spanish verb conjugation app with full voseo coverage, FSRS spaced repetition, a
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [Klisy](https://klisy.app)
+
+<div align="center"><a href="https://klisy.app"><img src="https://klisy.app/assets/icon.svg" width="200" alt="Klisy Greek conjugations and declensions"></a></div>
+
+Greek conjugations and declensions for iOS. The 10,000 most common Modern and Ancient (Attic) Greek lemmas and their inflected forms, scheduled with FSRS-6 spaced repetition. [klisy.app](https://klisy.app)
+
+</td>
+</tr>
 </table>
