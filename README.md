@@ -58,7 +58,7 @@ Capture App Store screenshots across every required device size in one command. 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### [dragoman](https://huggingface.co/ciscoriordan/dragoman)
 
@@ -70,30 +70,28 @@ Capture App Store screenshots across every required device size in one command. 
 Diachronic word-alignment model for Ancient Greek, Modern Greek, and English. Fine-tuned from [UGARIT/grc-alignment](https://huggingface.co/UGARIT/grc-alignment) on Iliad parallel text with contrastive alignment training. Powers the word-tap alignment in [Iliad Aligned](https://iliadaligned.com).
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### [svg-flags](https://github.com/ciscoriordan/svg-flags)
 
 [![Stars](https://img.shields.io/github/stars/ciscoriordan/svg-flags?style=flat&logo=github)](https://github.com/ciscoriordan/svg-flags/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/svg-flags)](https://github.com/ciscoriordan/svg-flags/commits)
 
-<div align="center"><a href="https://github.com/ciscoriordan/svg-flags"><img src="https://raw.githubusercontent.com/ciscoriordan/svg-flags/main/social.png" width="740" alt="svg-flags"></a></div>
+<div align="center"><a href="https://github.com/ciscoriordan/svg-flags"><img src="https://raw.githubusercontent.com/ciscoriordan/svg-flags/main/social.png" width="360" alt="svg-flags"></a></div>
 
 Clean, Xcode-compatible SVG flags with official colors in multiple shapes: circle, square, full-size, and simplified full-size. Fixes three issues with *circle-flags*: no Xcode support, circles only, and a reduced 11-color palette. [Browse the gallery](https://ciscoriordan.github.io/svg-flags)
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### [greek-majuscule-fonts](https://github.com/ciscoriordan/greek-majuscule-fonts)
 
 [![Stars](https://img.shields.io/github/stars/ciscoriordan/greek-majuscule-fonts?style=flat&logo=github)](https://github.com/ciscoriordan/greek-majuscule-fonts/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/greek-majuscule-fonts)](https://github.com/ciscoriordan/greek-majuscule-fonts/commits)
 
-<div align="center"><a href="https://github.com/ciscoriordan/greek-majuscule-fonts"><img src="https://raw.githubusercontent.com/ciscoriordan/greek-majuscule-fonts/main/assets/banner.png" width="740" alt="Greek Majuscule Fonts"></a></div>
+<div align="center"><a href="https://github.com/ciscoriordan/greek-majuscule-fonts"><img src="https://raw.githubusercontent.com/ciscoriordan/greek-majuscule-fonts/main/assets/banner.png" width="360" alt="Greek Majuscule Fonts"></a></div>
 
 Five Greek majuscule fonts, each in the scribal hand of a different Oxyrhynchus papyrus (P.Oxy. 2162, 2174, 2181, 2256, 2506). Type uppercase Greek and the letters render in the actual hand of an ancient scribe. Ships in OTF, TTF, and WOFF2.
 
@@ -138,7 +136,7 @@ iOS app and web reference for concealed-carry laws and reciprocity across 50 sta
 
 ### [Flex](https://flexlanguage.app)
 
-<div align="center"><a href="https://flexlanguage.app"><img src="https://flexlanguage.app/images/04_StudyView.webp" width="200" alt="Flex Spanish conjugation app"></a></div>
+<div align="center"><a href="https://flexlanguage.app"><img src="images/flex.png" width="360" alt="Flex Spanish conjugation app"></a></div>
 
 Spanish verb conjugation app with full voseo coverage, FSRS spaced repetition, and GPU-accelerated speech recognition. 5,064 verbs, every tense and mood, free. [flexlanguage.app](https://flexlanguage.app)
 
