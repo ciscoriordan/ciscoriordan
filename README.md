@@ -99,10 +99,19 @@ Five Greek majuscule fonts, each in the scribal hand of a different Oxyrhynchus 
 </tr>
 </table>
 
-## Sites & apps
+## Apps
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### [Klisy](https://klisy.app)
+
+<div align="center"><a href="https://klisy.app"><img src="https://klisy.app/assets/icon.svg" width="200" alt="Klisy Greek conjugations and declensions"></a></div>
+
+Greek conjugations and declensions for iOS. The 10,000 most common Modern and Ancient (Attic) Greek lemmas and their inflected forms, scheduled with FSRS-6 spaced repetition. [klisy.app](https://klisy.app)
+
+</td>
 <td width="50%" valign="top">
 
 ### [Iliad Aligned](https://iliadaligned.com)
@@ -112,6 +121,8 @@ Five Greek majuscule fonts, each in the scribal hand of a different Oxyrhynchus 
 iOS app presenting Homer's *Iliad* in parallel columns: Ancient Greek, Modern Greek (Polylas-Riordan), and English (Murray-Riordan). Tap any word for morphological analysis and dictionary definitions from Cunliffe, LSJ, and Wiktionary. [iliadaligned.com](https://iliadaligned.com)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Tonos](https://tonospolytonic.com)
@@ -121,8 +132,6 @@ iOS app presenting Homer's *Iliad* in parallel columns: Ancient Greek, Modern Gr
 A polytonic Greek keyboard for iOS 18+. Dedicated diacritic row, plus autocorrect and typeahead powered by [dilemma](https://github.com/ciscoriordan/dilemma). Supports Classical, Koine, Byzantine, and Katharevousa orthographies. [tonospolytonic.com](https://tonospolytonic.com)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [CCWCalc](https://ccwcalc.com)
@@ -132,6 +141,8 @@ A polytonic Greek keyboard for iOS 18+. Dedicated diacritic row, plus autocorrec
 iOS app and web reference for concealed-carry laws and reciprocity across 50 states, DC, PR, GU, USVI, AS, CNMI, 365 Indian reservations, 169 military installations, and 176 on-base hotels. [ccwcalc.com](https://ccwcalc.com)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Flex](https://flexlanguage.app)
@@ -139,17 +150,6 @@ iOS app and web reference for concealed-carry laws and reciprocity across 50 sta
 <div align="center"><a href="https://flexlanguage.app"><img src="images/flex.png" width="360" alt="Flex Spanish conjugation app"></a></div>
 
 Spanish verb conjugation app with full voseo coverage, FSRS spaced repetition, and GPU-accelerated speech recognition. 5,064 verbs, every tense and mood, free. [flexlanguage.app](https://flexlanguage.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Klisy](https://klisy.app)
-
-<div align="center"><a href="https://klisy.app"><img src="https://klisy.app/assets/icon.svg" width="200" alt="Klisy Greek conjugations and declensions"></a></div>
-
-Greek conjugations and declensions for iOS. The 10,000 most common Modern and Ancient (Attic) Greek lemmas and their inflected forms, scheduled with FSRS-6 spaced repetition. [klisy.app](https://klisy.app)
 
 </td>
 </tr>
