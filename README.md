@@ -38,9 +38,9 @@ Free Modern Greek-English dictionary for Kindle e-readers. 31K headwords, 568K i
 [![Release](https://img.shields.io/github/v/release/ciscoriordan/dilemma?display_name=tag)](https://github.com/ciscoriordan/dilemma/releases)
 [![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/dilemma)](https://github.com/ciscoriordan/dilemma/commits)
 
-<div align="center"><a href="https://github.com/ciscoriordan/dilemma"><img src="https://raw.githubusercontent.com/ciscoriordan/dilemma/main/social.jpg" width="360" alt="Dilemma Greek lemmatizer, POS tagger, dependency parser"></a></div>
+<div align="center"><a href="https://github.com/ciscoriordan/dilemma"><img src="https://raw.githubusercontent.com/ciscoriordan/dilemma/main/scripts/social.jpg" width="360" alt="Dilemma Greek lemmatizer, POS tagger, dependency parser"></a></div>
 
-Diachronic Greek NLP package spanning Ancient (Classical, Homeric, Hellenistic), Medieval/Byzantine (vernacular and literary), and Modern Greek (Demotic and Katharevousa). Includes a 12.5M-form lookup table, dialect normalization, a character-level transformer, and a GPU-optimized POS tagger and dependency parser.
+Diachronic Greek NLP package spanning Ancient (Classical, Homeric, Hellenistic), Medieval/Byzantine (vernacular and literary), and Modern Greek (Demotic and Katharevousa). A four-layer lemmatizer that falls back in priority order, from a 12.5M-form lookup (the largest compiled for Greek) through rule-based stripping and dialect normalization to a character-level transformer for unseen forms, plus a POS tagger and dependency parser.
 
 </td>
 <td width="50%" valign="top">
