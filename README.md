@@ -126,51 +126,51 @@ Clean, Xcode-compatible SVG flags with official colors in multiple shapes: circl
 <tr>
 <td width="50%" valign="top">
 
-### [Klisy](https://klisy.app)
+### [Klisy](https://klisy.app) ([App Store](https://apps.apple.com/app/id6767081722) / [website](https://klisy.app))
 
 <div align="center"><a href="https://klisy.app"><img src="https://klisy.app/assets/icon.svg" width="200" alt="Klisy Greek conjugations and declensions"></a></div>
 
-Greek conjugations and declensions for iOS. The 10,000 most common Modern and Ancient (Attic) Greek lemmas and their inflected forms, scheduled with FSRS-6 spaced repetition. [klisy.app](https://klisy.app)
+Greek conjugations and declensions for iOS. The 10,000 most common Modern and Ancient (Attic) Greek lemmas and their inflected forms, scheduled with FSRS-6 spaced repetition.
 
 </td>
 <td width="50%" valign="top">
 
-### [Tonos](https://tonospolytonic.com)
+### [Tonos](https://tonospolytonic.com) ([App Store](https://apps.apple.com/app/id6762309721) / [website](https://tonospolytonic.com))
 
 <div align="center"><a href="https://tonospolytonic.com"><img src="https://tonospolytonic.com/assets/og-image.png" width="360" alt="Tonos polytonic Greek keyboard"></a></div>
 
-A polytonic Greek keyboard for iOS 18+. Dedicated diacritic row, plus autocorrect and typeahead powered by [dilemma](https://github.com/open-greek/dilemma). Supports Classical, Koine, Byzantine, and Katharevousa orthographies. [tonospolytonic.com](https://tonospolytonic.com)
+A polytonic Greek keyboard for iOS 18+. Dedicated diacritic row, plus autocorrect and typeahead powered by [dilemma](https://github.com/open-greek/dilemma). Supports Classical, Koine, Byzantine, and Katharevousa orthographies.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Iliad Aligned](https://iliadaligned.com)
+### [Iliad Aligned](https://iliadaligned.com) ([App Store](https://apps.apple.com/app/id6763658590) / [website](https://iliadaligned.com))
 
 <div align="center"><a href="https://iliadaligned.com"><img src="https://iliadaligned.com/og-image.jpg" width="360" alt="Iliad Aligned"></a></div>
 
-iOS app presenting Homer's *Iliad* in parallel columns: Ancient Greek, Modern Greek (Polylas-Riordan), and English (Murray-Riordan). Tap any word for morphological analysis and dictionary definitions from Cunliffe, LSJ, and Wiktionary. [iliadaligned.com](https://iliadaligned.com)
+iOS app presenting Homer's *Iliad* in parallel columns: Ancient Greek, Modern Greek (Polylas-Riordan), and English (Murray-Riordan). Tap any word for morphological analysis and dictionary definitions from Cunliffe, LSJ, and Wiktionary.
 
 </td>
 <td width="50%" valign="top">
 
-### [CCWCalc](https://ccwcalc.com)
+### [CCWCalc](https://ccwcalc.com) ([App Store](https://apps.apple.com/app/id6744943041) / [website](https://ccwcalc.com))
 
 <div align="center"><a href="https://ccwcalc.com"><img src="https://ccwcalc.com/assets/og-image-b2c25e53c8e056ae9a69fd11b9828758730704933881b2cffcad4a5636da4262.jpg" width="360" alt="CCWCalc concealed carry laws"></a></div>
 
-iOS app and web reference for concealed-carry laws and reciprocity across 50 states, DC, PR, GU, USVI, AS, CNMI, 365 Indian reservations, 169 military installations, and 176 on-base hotels. [ccwcalc.com](https://ccwcalc.com)
+iOS app and web reference for concealed-carry laws and reciprocity across 50 states, DC, PR, GU, USVI, AS, CNMI, 365 Indian reservations, 169 military installations, and 176 on-base hotels.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Flex](https://flexlanguage.app)
+### [Flex](https://flexlanguage.app) ([App Store](https://apps.apple.com/app/id6758880296) / [website](https://flexlanguage.app))
 
 <div align="center"><a href="https://flexlanguage.app"><img src="images/flex.png" width="360" alt="Flex Spanish conjugation app"></a></div>
 
-Spanish verb conjugation app with full voseo coverage, FSRS spaced repetition, and GPU-accelerated speech recognition. 5,064 verbs, every tense and mood, free. [flexlanguage.app](https://flexlanguage.app)
+Spanish verb conjugation app with full voseo coverage, FSRS spaced repetition, and GPU-accelerated speech recognition. 5,064 verbs, every tense and mood, free.
 
 </td>
 </tr>
