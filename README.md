@@ -114,7 +114,7 @@ Capture App Store screenshots across every required device size in one command. 
 
 <div align="center"><a href="https://github.com/ciscoriordan/svg-flags"><img src="https://raw.githubusercontent.com/ciscoriordan/svg-flags/main/social.png" width="360" alt="svg-flags"></a></div>
 
-Clean, Xcode-compatible SVG flags with official colors in multiple shapes: circle, square, full-size, and simplified full-size. Fixes three issues with *circle-flags*: no Xcode support, circles only, and a reduced 11-color palette. [Browse the gallery](https://ciscoriordan.github.io/svg-flags)
+Clean, Xcode-compatible SVG flags with official colors in multiple shapes: circle, square, full-size, and simplified full-size. Fixes three issues with *circle-flags*: no Xcode support, circles only, and a reduced 11-color palette.
 
 </td>
 </tr>
