@@ -65,7 +65,7 @@ Diachronic word-alignment model for Ancient Greek, Modern Greek, and English. Fi
 [![Stars](https://img.shields.io/github/stars/open-greek/greek-majuscule-fonts?style=flat&logo=github)](https://github.com/open-greek/greek-majuscule-fonts/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/open-greek/greek-majuscule-fonts)](https://github.com/open-greek/greek-majuscule-fonts/commits)
 
-<div align="center"><a href="https://github.com/open-greek/greek-majuscule-fonts"><img src="https://raw.githubusercontent.com/open-greek/greek-majuscule-fonts/main/assets/banner.png" width="360" alt="Greek Majuscule Fonts"></a></div>
+<div align="center"><a href="https://github.com/open-greek/greek-majuscule-fonts"><img src="https://raw.githubusercontent.com/open-greek/greek-majuscule-fonts/main/assets/banner.png?v=4" width="360" alt="Greek Majuscule Fonts"></a></div>
 
 Five Greek majuscule fonts, each in the scribal hand of a different Oxyrhynchus papyrus (P.Oxy. 2162, 2174, 2181, 2256, 2506). Type uppercase Greek and the letters render in the actual hand of an ancient scribe. Ships in OTF, TTF, and WOFF2.
 
@@ -111,7 +111,9 @@ Clean, Xcode-compatible SVG flags with official colors in multiple shapes: circl
 [![Stars](https://img.shields.io/github/stars/ciscoriordan/storescreens-cli?style=flat&logo=github)](https://github.com/ciscoriordan/storescreens-cli/stargazers)
 [![Release](https://img.shields.io/github/v/release/ciscoriordan/storescreens-cli?display_name=tag)](https://github.com/ciscoriordan/storescreens-cli/releases)
 
-Simulator setup, XCUITest orchestration, and raw screenshot collection across devices, locales, and appearances. Works with Koubou for rendering and ASC CLI for App Store Connect and uploads.
+<div align="center"><a href="https://github.com/ciscoriordan/storescreens-cli"><img src="https://raw.githubusercontent.com/ciscoriordan/storescreens-cli/main/assets/banner.png?v=4" width="360" alt="StoreScreens — XCUITest Screenshot Orchestration"></a></div>
+
+XCUITest screenshot orchestration for iOS and macOS. Sets up simulators, runs screenshot tests across devices, locales, and appearances, and collects raw PNGs with capture manifests. Works with Koubou for rendering and ASC CLI for App Store Connect and uploads.
 
 </td>
 </tr>
