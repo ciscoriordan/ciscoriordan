@@ -92,21 +92,6 @@ The missing Kindle toolkit. Dictionaries, books, and comics, built as a single s
 </td>
 <td width="50%" valign="top">
 
-### [storescreens-cli](https://github.com/ciscoriordan/storescreens-cli)
-
-[![Stars](https://img.shields.io/github/stars/ciscoriordan/storescreens-cli?style=flat&logo=github)](https://github.com/ciscoriordan/storescreens-cli/stargazers)
-[![Release](https://img.shields.io/github/v/release/ciscoriordan/storescreens-cli?display_name=tag)](https://github.com/ciscoriordan/storescreens-cli/releases)
-[![Last commit](https://img.shields.io/github/last-commit/ciscoriordan/storescreens-cli)](https://github.com/ciscoriordan/storescreens-cli/commits)
-
-<div align="center"><a href="https://github.com/ciscoriordan/storescreens-cli"><img src="https://raw.githubusercontent.com/ciscoriordan/storescreens-cli/main/assets/banner.png" width="360" alt="StoreScreens"></a></div>
-
-Capture App Store screenshots across every required device size in one command. Runs your UI tests on multiple simulators in parallel, organizes output by device and locale, and auto-detects which App Store size each simulator maps to. iPhone, iPad, Apple Watch, and Mac.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [svg-flags](https://github.com/ciscoriordan/svg-flags)
 
 [![Stars](https://img.shields.io/github/stars/ciscoriordan/svg-flags?style=flat&logo=github)](https://github.com/ciscoriordan/svg-flags/stargazers)
