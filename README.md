@@ -103,6 +103,18 @@ Clean, Xcode-compatible SVG flags with official colors in multiple shapes: circl
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [storescreens](https://github.com/ciscoriordan/storescreens-cli)
+
+[![Stars](https://img.shields.io/github/stars/ciscoriordan/storescreens-cli?style=flat&logo=github)](https://github.com/ciscoriordan/storescreens-cli/stargazers)
+[![Release](https://img.shields.io/github/v/release/ciscoriordan/storescreens-cli?display_name=tag)](https://github.com/ciscoriordan/storescreens-cli/releases)
+
+Simulator setup, XCUITest orchestration, and raw screenshot collection across devices, locales, and appearances. Works with Koubou for rendering and ASC CLI for App Store Connect and uploads.
+
+</td>
+</tr>
 </table>
 
 ## iOS Apps
