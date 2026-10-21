@@ -111,7 +111,7 @@ Clean, Xcode-compatible SVG flags with official colors in multiple shapes: circl
 [![Stars](https://img.shields.io/github/stars/ciscoriordan/storescreens-cli?style=flat&logo=github)](https://github.com/ciscoriordan/storescreens-cli/stargazers)
 [![Release](https://img.shields.io/github/v/release/ciscoriordan/storescreens-cli?display_name=tag)](https://github.com/ciscoriordan/storescreens-cli/releases)
 
-<div align="center"><a href="https://github.com/ciscoriordan/storescreens-cli"><img src="https://raw.githubusercontent.com/ciscoriordan/storescreens-cli/main/assets/banner.png?v=4" width="360" alt="StoreScreens — XCUITest Screenshot Orchestration"></a></div>
+<div align="center"><a href="https://github.com/ciscoriordan/storescreens-cli"><img src="https://raw.githubusercontent.com/ciscoriordan/storescreens-cli/main/assets/banner.png?v=logo" width="360" alt="StoreScreens — XCUITest Screenshot Orchestration"></a></div>
 
 XCUITest screenshot orchestration for iOS and macOS. Sets up simulators, runs screenshot tests across devices, locales, and appearances, and collects raw PNGs with capture manifests. Use your preferred rendering and upload tools; Koubou and ASC CLI are recommended. Install with mise, Homebrew, or curl.
 
